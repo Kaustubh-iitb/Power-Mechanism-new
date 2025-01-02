@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/power-learn-figure.jpg" alt="Power-Learning Overview"/>
-</p>
 
 # Power-Learning: Differentially Private and Model Agnostic Tabular Data Embeddings
 
@@ -15,6 +12,11 @@ Traditional collaborative learning approaches focus on sharing model weights bet
 - Formal differential privacy guarantees
 - Efficient single-round communication
 - Reduced client-side computation
+
+<p align="center">
+  <img src="./assets/power-learn-figure.jpg" alt="Power-Learning Overview"/>
+</p>
+
 
 ## Repository Structure
 
