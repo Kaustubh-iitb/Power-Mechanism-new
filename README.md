@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/power-learn-figure.jpg" alt="Power-Learning Overview"/>
 </p>
+
 # Power-Learning: Differentially Private and Model Agnostic Tabular Data Embeddings
 
 This repository contains the official implementation of "Power Learning: Differentially private and model agnostic tabular data embeddings", which introduces a novel framework for sharing neural network activations with formal differential privacy guarantees.
